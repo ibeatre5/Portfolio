@@ -1,0 +1,62 @@
+p{
+
+    color: blue;
+}
+.xyz{
+    font-size:72px;
+}
+
+#top-text{
+    font-weight: 500;
+}
+.new-color{
+    background-color: black;
+}
+.card{
+    border: burlywood;
+}
+
+.card{
+    padding: .75rem 1.25rem .75rem 0;
+}
+.card-header-padding{
+    padding-left: 0;
+}
+.right-align{
+    text-align: right;
+}
+
+.col-md-3{
+    background-color: grey;
+    
+ 
+ 
+ 
+  
+  
+  
+
+}
+
+/* p {
+  color: orange
+}
+
+.xyz {
+  font-size: 72px;
+}
+
+#top-text {
+  font-weight: 500
+}
+
+.new-color {
+  background-color: black
+} */
+
+.card {
+  border: inherit;
+
+.card-header-padding {
+  padding-left: 0;
+/*
